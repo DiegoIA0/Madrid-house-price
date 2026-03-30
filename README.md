@@ -10,9 +10,9 @@ the end of this model is analyze variables such as location, number of bedrooms,
 
 ## Steps taken
 
-**Explorating analyze:** Visualization of distributions and heat maps
-**data cleaning:** null value management in the column of bedrooms
-**Model:** Use of the Linear Regression to training
+* **Explorating analyze:** Visualization of distributions and heat maps
+* **data cleaning:** null value management in the column of bedrooms
+* **Model:** Use of the Linear Regression to training
 
 
 ## Technologies used
