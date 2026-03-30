@@ -25,4 +25,7 @@ the end of this model is analyze variables such as location, number of bedrooms,
 
 So far, **we have discovered that the median income (median_income) is the factor that most influences in the housing price**
 
+**Warm graphic**
+
+![Warm graphic](warmcool.png)
 
