@@ -2,11 +2,11 @@
 The dataset I used is from housing price of California
 
 
-Hi! This is my first proyect o data Science and Artificial Intelligence. I´m studying Computer Science. The objective of this proyect is predict the price of housing
+Hi! This is my first proyect of data Science and Artificial Intelligence. I´m studying Computer Science. The objective of this proyect is predict the price of housing
 
 ## Objective of the proyect
 
-the end of this model is analyze variables such as location, number of bedrooms, numer of beds or the income level of the area using a sataset of California
+the end of this model is analyze variables such as location, number of bedrooms, number of beds or the income level of the area using a dataset of California
 
 ## Steps taken
 
